@@ -1,0 +1,65 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Code::Blocks files
+*.layout
+*.depend
+*.cbp.save
+*.autosave
+*.cbtmp
+*.cbuser
+
+# Dev++ files
+*.dev
+*.private
+
+# VSCode settings
+.vscode/
+.history/
+*.code-workspace
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Other IDE/project files
+*.DS_Store
+*.directory
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Test output
+test-output/
